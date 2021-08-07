@@ -13,7 +13,7 @@ options.headless = False
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 
-
+   
 results = []
 resultstock = []
 resultstock1 = []
